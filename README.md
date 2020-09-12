@@ -1178,7 +1178,7 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 * [《Redis学习笔记之十：Redis用作消息队列》](https://blog.csdn.net/qq_34212276/article/details/78455004)
 
 ### ZeroMQ
- TODO
+ TODO无
 
 
 ## 定时调度
